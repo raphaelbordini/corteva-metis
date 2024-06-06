@@ -116,7 +116,7 @@
     "Id": "880723d2-d121-4443-96ab-a1ecf447a253",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "APP TESTE GIT",
     "OriginatingVersion": "1.341",
     "ParserErrorCount": 0,
