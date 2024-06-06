@@ -4,7 +4,7 @@
     "AppCheckerResult.sarif": "C8_U0Zd2tlEBj3qKjG+un50YZqyRpv6aPedFSivY8nmst0=",
     "Controls\\1.json": "C8_+9bWWWaDtzI/rA9xGR0GFD302+//iUIr6k2V6TsJM50=",
     "Controls\\4.json": "C8_X2jsJbgbkgsnKxxSX5XfllHsJWow5fU0A2upp1qtkgo=",
-    "Header.json": "C8_0MCBDPg4ZL9atF4KGM/1/qq/+8Az8Fc7pdMlSOmTCKQ=",
+    "Header.json": "C8_SjaEK8fFpwoCC5siKmf6RP3JmTD13vVVMtXSChbW+1U=",
     "Properties.json": "C8_lFN1zfX9b9H4iZWBvlMQ9Yjcfqg+IstxhDNYji8eZRQ=",
     "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
     "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
@@ -13,13 +13,13 @@
     "References\\Themes.json": "C8_oCZZeuoC7+zyBGQLt9MZ2S+Xl34LpAsWKWXX0Qw0/YE=",
     "Resources\\PublishInfo.json": "C8_+V2e6xUrHPoWJapgIMmnaY7chlqT9aEIxrKCS5CLtxA="
   },
-  "ClientStampedChecksum": "C8_5UGEOYTpiLpY1f9lEgX1wuY2oZ7jmezhQf4Z44xDeXk=",
+  "ClientStampedChecksum": "C8_wYDR44/pegGpLHci63fUa4833FP797QVssHMomkx9v4=",
   "ServerPerFileChecksums": {
     ".gitignore": "C8_VaC8EcEG56Ufcy1DFyC8Ky19iV9xSsXMDIAcmF2GTj8=",
     "AppCheckerResult.sarif": "C8_U0Zd2tlEBj3qKjG+un50YZqyRpv6aPedFSivY8nmst0=",
     "Controls\\1.json": "C8_+9bWWWaDtzI/rA9xGR0GFD302+//iUIr6k2V6TsJM50=",
     "Controls\\4.json": "C8_X2jsJbgbkgsnKxxSX5XfllHsJWow5fU0A2upp1qtkgo=",
-    "Header.json": "C8_0MCBDPg4ZL9atF4KGM/1/qq/+8Az8Fc7pdMlSOmTCKQ=",
+    "Header.json": "C8_SjaEK8fFpwoCC5siKmf6RP3JmTD13vVVMtXSChbW+1U=",
     "Properties.json": "C8_lFN1zfX9b9H4iZWBvlMQ9Yjcfqg+IstxhDNYji8eZRQ=",
     "References\\DataSources.json": "C8_1Mz8z/quQND5c2f8m0mw1Mjdi+ggLSDhPUoMPaSWpDQ=",
     "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
@@ -28,5 +28,5 @@
     "References\\Themes.json": "C8_oCZZeuoC7+zyBGQLt9MZ2S+Xl34LpAsWKWXX0Qw0/YE=",
     "Resources\\PublishInfo.json": "C8_+V2e6xUrHPoWJapgIMmnaY7chlqT9aEIxrKCS5CLtxA="
   },
-  "ServerStampedChecksum": "C8_5UGEOYTpiLpY1f9lEgX1wuY2oZ7jmezhQf4Z44xDeXk="
+  "ServerStampedChecksum": "C8_wYDR44/pegGpLHci63fUa4833FP797QVssHMomkx9v4="
 }
